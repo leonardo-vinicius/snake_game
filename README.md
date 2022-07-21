@@ -6,7 +6,7 @@ cor representando um número e quando a cobra come ganha pontos,  não pode bate
 nem nela mesma, e há um diferencial no jogo que são os operadores matemáticos que podem ser
 "+, -, *, /" e quando o operador aparece a respectiva operação vai acontecer, exemplo: se
 aparecer "*" os pontos vão ser multiplicados de acordo com a maçã, e há um objeto "troca-operador"
-que como o próprio nome já diz muda o operador. Jogue e divirta-se.
+que como o próprio nome já diz muda o operador. Jogue e divirta-se.<\n>
 <p>💓maçã vermelha: 1 ponto</p>
 <p>💙maçã azul: 2 pontos</p>
 <p>💛maçã dourada: 5 pontos + muda o operador</p>
